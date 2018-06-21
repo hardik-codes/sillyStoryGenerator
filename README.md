@@ -1,0 +1,2 @@
+# sillyStoryGenerator
+A javascript application
